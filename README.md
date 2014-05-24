@@ -1,7 +1,9 @@
 git-tug
 =======
 
-`git tug` == `git pull origin {current branch}`
+Give your current branch a tug.
+
+Equivalent to: `git pull origin {current branch}`
 
 ### Installation
 
